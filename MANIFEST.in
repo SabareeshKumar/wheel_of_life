@@ -1,0 +1,2 @@
+include *.txt *.ini *.cfg *.rst
+recursive-include wheel_of_life *.ico *.png *.css *.gif *.jpg *.pt *.txt *.mak *.mako *.js *.html *.xml *.jinja2

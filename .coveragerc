@@ -1,0 +1,3 @@
+[run]
+source = wheel_of_life
+omit = wheel_of_life/test*
